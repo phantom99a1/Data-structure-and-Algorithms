@@ -4,7 +4,8 @@ using System.Text;
 namespace CountDay
 {    
     public class CountDay
-    {        
+    {
+        //Count number of days between Two date with format yyyy/MM/dd
         public static TimeSpan CountDaysBetweenTwoDate(string startDate, string endDate)
         {
             try
@@ -27,30 +28,30 @@ namespace CountDay
             try
             {
                 Console.OutputEncoding = Encoding.UTF8;
-                Console.WriteLine("Hãy nhập vào ngày bắt đầu: ");
+                Console.WriteLine("Please enter the start date: ");
                 string startDayString = Console.ReadLine() ?? "";
                 if (string.IsNullOrEmpty(startDayString))
                 {
-                    Console.WriteLine("Ngày bắt đầu không được để trống!");
+                    Console.WriteLine("The start date isn't empty!");
                     Console.ReadKey();
                     return;
                 }
-                Console.WriteLine("Hãy nhập vào ngày kết thúc: ");
+                Console.WriteLine("Please enter the end date: ");
                 string endDayString = Console.ReadLine() ?? "";
                 if (string.IsNullOrEmpty(endDayString))
                 {
-                    Console.WriteLine("Ngày kết thúc không được để trống!");
+                    Console.WriteLine("The end date isn't empty!");
                     Console.ReadKey(true);
                     return;
                 }
                 if(DateTime.Parse(startDayString) > DateTime.Parse(endDayString))
                 {
-                    Console.WriteLine("Ngày bắt đầu không được lớn hơn ngày kết thúc");
+                    Console.WriteLine("The start date isn't greater than the end date!");
                     Console.ReadKey(true);
                     return;
                 }
                 var result = CountDay.CountDaysBetweenTwoDate(startDayString, endDayString);
-                Console.WriteLine($"Khoảng cách giữa hai ngày là: {result.Days} ngày");
+                Console.WriteLine($"The differences between two dates is: {result.Days} days");
                 Console.ReadKey();
             }
             catch (Exception ex)
