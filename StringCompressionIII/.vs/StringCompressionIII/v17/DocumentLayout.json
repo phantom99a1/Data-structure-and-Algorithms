@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Data Structure and Algorithms\\TwoSumProblem\\",
+  "WorkspaceRootPath": "D:\\Data Structure and Algorithms\\StringCompressionIII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{425AD78C-8C06-4DCA-ADEF-275C6276007F}|TwoSumProblem.csproj|d:\\data structure and algorithms\\twosumproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425AD78C-8C06-4DCA-ADEF-275C6276007F}|TwoSumProblem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{014129A1-26EE-43C9-8B61-CEFB8E7F4068}|StringCompressionIII.csproj|d:\\data structure and algorithms\\stringcompressioniii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014129A1-26EE-43C9-8B61-CEFB8E7F4068}|StringCompressionIII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,13 +84,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Data Structure and Algorithms\\TwoSumProblem\\Program.cs",
+              "DocumentMoniker": "D:\\Data Structure and Algorithms\\StringCompressionIII\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Data Structure and Algorithms\\TwoSumProblem\\Program.cs",
+              "ToolTip": "D:\\Data Structure and Algorithms\\StringCompressionIII\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAwAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:58:34.926Z",
+              "WhenOpened": "2024-11-06T08:07:58.363Z",
               "EditorCaption": ""
             }
           ]
