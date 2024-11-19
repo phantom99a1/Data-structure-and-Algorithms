@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Defuse the bomb\bin\Debug\net8.0\Defuse the bomb.exe
+D:\Data Structure and Algorithms\Defuse the bomb\bin\Debug\net8.0\Defuse the bomb.deps.json
+D:\Data Structure and Algorithms\Defuse the bomb\bin\Debug\net8.0\Defuse the bomb.runtimeconfig.json
+D:\Data Structure and Algorithms\Defuse the bomb\bin\Debug\net8.0\Defuse the bomb.dll
+D:\Data Structure and Algorithms\Defuse the bomb\bin\Debug\net8.0\Defuse the bomb.pdb
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.sourcelink.json
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.dll
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\refint\Defuse the bomb.dll
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.pdb
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\Defuse the bomb.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Defuse the bomb\obj\Debug\net8.0\ref\Defuse the bomb.dll
