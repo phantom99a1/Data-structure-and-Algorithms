@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\bin\Debug\net8.0\Take K of Each Character From Left and Right.exe
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\bin\Debug\net8.0\Take K of Each Character From Left and Right.deps.json
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\bin\Debug\net8.0\Take K of Each Character From Left and Right.runtimeconfig.json
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\bin\Debug\net8.0\Take K of Each Character From Left and Right.dll
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\bin\Debug\net8.0\Take K of Each Character From Left and Right.pdb
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.sourcelink.json
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.dll
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\refint\Take K of Each Character From Left and Right.dll
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.pdb
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\Take K of Each Character From Left and Right.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Take K of Each Character From Left and Right\obj\Debug\net8.0\ref\Take K of Each Character From Left and Right.dll
