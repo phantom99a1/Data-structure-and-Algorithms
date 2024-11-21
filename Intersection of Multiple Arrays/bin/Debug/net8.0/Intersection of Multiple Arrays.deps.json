@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Intersection of Multiple Arrays/1.0.0": {
+        "runtime": {
+          "Intersection of Multiple Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intersection of Multiple Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

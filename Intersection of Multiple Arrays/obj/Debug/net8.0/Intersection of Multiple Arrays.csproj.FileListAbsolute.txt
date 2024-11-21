@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\bin\Debug\net8.0\Intersection of Multiple Arrays.exe
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\bin\Debug\net8.0\Intersection of Multiple Arrays.deps.json
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\bin\Debug\net8.0\Intersection of Multiple Arrays.runtimeconfig.json
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\bin\Debug\net8.0\Intersection of Multiple Arrays.dll
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\bin\Debug\net8.0\Intersection of Multiple Arrays.pdb
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.sourcelink.json
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.dll
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\refint\Intersection of Multiple Arrays.dll
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.pdb
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\Intersection of Multiple Arrays.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Intersection of Multiple Arrays\obj\Debug\net8.0\ref\Intersection of Multiple Arrays.dll
