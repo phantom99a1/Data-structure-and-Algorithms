@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\bin\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.exe
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\bin\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.deps.json
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\bin\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.runtimeconfig.json
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\bin\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.dll
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\bin\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.pdb
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.sourcelink.json
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.dll
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\refint\Flip Columns For Maximum Number of Equal Rows.dll
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.pdb
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\Flip Columns For Maximum Number of Equal Rows.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Flip Columns For Maximum Number of Equal Rows\obj\Debug\net8.0\ref\Flip Columns For Maximum Number of Equal Rows.dll

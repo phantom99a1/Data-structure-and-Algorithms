@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Flip Columns For Maximum Number of Equal Rows/1.0.0": {
+        "runtime": {
+          "Flip Columns For Maximum Number of Equal Rows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flip Columns For Maximum Number of Equal Rows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
