@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Data Structure and Algorithms\\Find the Power of K-Size Subarrays I\\",
+  "WorkspaceRootPath": "D:\\Data Structure and Algorithms\\Maximum Matrix Sum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9971C924-0E62-4F2B-B0E0-2CF1BF3C5E56}|Find the Power of K-Size Subarrays I.csproj|d:\\data structure and algorithms\\find the power of k-size subarrays i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9971C924-0E62-4F2B-B0E0-2CF1BF3C5E56}|Find the Power of K-Size Subarrays I.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19C79F82-1C56-423F-B2A7-DAA0D7892F80}|Maximum Matrix Sum.csproj|d:\\data structure and algorithms\\maximum matrix sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C79F82-1C56-423F-B2A7-DAA0D7892F80}|Maximum Matrix Sum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,13 +84,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Data Structure and Algorithms\\Find the Power of K-Size Subarrays I\\Program.cs",
+              "DocumentMoniker": "D:\\Data Structure and Algorithms\\Maximum Matrix Sum\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Data Structure and Algorithms\\Find the Power of K-Size Subarrays I\\Program.cs",
+              "ToolTip": "D:\\Data Structure and Algorithms\\Maximum Matrix Sum\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAABYAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:09:18.756Z",
+              "WhenOpened": "2024-11-24T05:05:44.66Z",
               "EditorCaption": ""
             }
           ]
