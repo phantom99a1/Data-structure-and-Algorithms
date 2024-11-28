@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\bin\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.exe
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\bin\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.deps.json
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\bin\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.runtimeconfig.json
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\bin\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.dll
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\bin\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.pdb
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.sourcelink.json
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.dll
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\refint\Minimum Obstacle Removal to Reach Corner.dll
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.pdb
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\Minimum Obstacle Removal to Reach Corner.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Minimum Obstacle Removal to Reach Corner\obj\Debug\net8.0\ref\Minimum Obstacle Removal to Reach Corner.dll
