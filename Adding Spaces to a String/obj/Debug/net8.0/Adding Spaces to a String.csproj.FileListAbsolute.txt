@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Adding Spaces to a String\bin\Debug\net8.0\Adding Spaces to a String.exe
+D:\Data Structure and Algorithms\Adding Spaces to a String\bin\Debug\net8.0\Adding Spaces to a String.deps.json
+D:\Data Structure and Algorithms\Adding Spaces to a String\bin\Debug\net8.0\Adding Spaces to a String.runtimeconfig.json
+D:\Data Structure and Algorithms\Adding Spaces to a String\bin\Debug\net8.0\Adding Spaces to a String.dll
+D:\Data Structure and Algorithms\Adding Spaces to a String\bin\Debug\net8.0\Adding Spaces to a String.pdb
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.sourcelink.json
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.dll
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\refint\Adding Spaces to a String.dll
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.pdb
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\Adding Spaces to a String.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Adding Spaces to a String\obj\Debug\net8.0\ref\Adding Spaces to a String.dll
