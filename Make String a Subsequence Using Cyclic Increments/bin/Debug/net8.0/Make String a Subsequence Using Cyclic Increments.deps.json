@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Make String a Subsequence Using Cyclic Increments/1.0.0": {
+        "runtime": {
+          "Make String a Subsequence Using Cyclic Increments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Make String a Subsequence Using Cyclic Increments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
