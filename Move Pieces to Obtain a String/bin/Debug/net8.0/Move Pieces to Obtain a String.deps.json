@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Move Pieces to Obtain a String/1.0.0": {
+        "runtime": {
+          "Move Pieces to Obtain a String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Move Pieces to Obtain a String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

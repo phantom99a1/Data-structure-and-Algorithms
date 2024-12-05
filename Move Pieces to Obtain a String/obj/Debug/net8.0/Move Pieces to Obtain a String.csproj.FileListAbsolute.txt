@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\bin\Debug\net8.0\Move Pieces to Obtain a String.exe
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\bin\Debug\net8.0\Move Pieces to Obtain a String.deps.json
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\bin\Debug\net8.0\Move Pieces to Obtain a String.runtimeconfig.json
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\bin\Debug\net8.0\Move Pieces to Obtain a String.dll
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\bin\Debug\net8.0\Move Pieces to Obtain a String.pdb
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.sourcelink.json
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.dll
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\refint\Move Pieces to Obtain a String.dll
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.pdb
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\Move Pieces to Obtain a String.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Move Pieces to Obtain a String\obj\Debug\net8.0\ref\Move Pieces to Obtain a String.dll
