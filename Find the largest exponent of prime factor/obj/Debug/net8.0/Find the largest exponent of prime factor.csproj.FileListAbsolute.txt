@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\bin\Debug\net8.0\Find the largest exponent of prime factor.exe
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\bin\Debug\net8.0\Find the largest exponent of prime factor.deps.json
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\bin\Debug\net8.0\Find the largest exponent of prime factor.runtimeconfig.json
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\bin\Debug\net8.0\Find the largest exponent of prime factor.dll
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\bin\Debug\net8.0\Find the largest exponent of prime factor.pdb
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.sourcelink.json
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.dll
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\refint\Find the largest exponent of prime factor.dll
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.pdb
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\Find the largest exponent of prime factor.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find the largest exponent of prime factor\obj\Debug\net8.0\ref\Find the largest exponent of prime factor.dll
