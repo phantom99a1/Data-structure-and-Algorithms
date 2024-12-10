@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\bin\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.exe
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\bin\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.deps.json
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\bin\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.runtimeconfig.json
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\bin\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.dll
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\bin\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.pdb
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.sourcelink.json
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.dll
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\refint\Find Longest Special Substring That Occurs Thrice I.dll
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.pdb
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\Find Longest Special Substring That Occurs Thrice I.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find Longest Special Substring That Occurs Thrice I\obj\Debug\net8.0\ref\Find Longest Special Substring That Occurs Thrice I.dll
