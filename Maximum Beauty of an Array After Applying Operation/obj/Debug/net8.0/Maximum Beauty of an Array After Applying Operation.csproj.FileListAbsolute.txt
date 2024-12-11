@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\bin\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.exe
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\bin\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.deps.json
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\bin\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.runtimeconfig.json
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\bin\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.dll
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\bin\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.pdb
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.sourcelink.json
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.dll
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\refint\Maximum Beauty of an Array After Applying Operation.dll
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.pdb
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\Maximum Beauty of an Array After Applying Operation.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Maximum Beauty of an Array After Applying Operation\obj\Debug\net8.0\ref\Maximum Beauty of an Array After Applying Operation.dll
