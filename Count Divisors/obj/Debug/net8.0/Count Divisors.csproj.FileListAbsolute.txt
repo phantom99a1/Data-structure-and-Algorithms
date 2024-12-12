@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Count Divisors\bin\Debug\net8.0\Count Divisors.exe
+D:\Data Structure and Algorithms\Count Divisors\bin\Debug\net8.0\Count Divisors.deps.json
+D:\Data Structure and Algorithms\Count Divisors\bin\Debug\net8.0\Count Divisors.runtimeconfig.json
+D:\Data Structure and Algorithms\Count Divisors\bin\Debug\net8.0\Count Divisors.dll
+D:\Data Structure and Algorithms\Count Divisors\bin\Debug\net8.0\Count Divisors.pdb
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.sourcelink.json
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.dll
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\refint\Count Divisors.dll
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.pdb
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\Count Divisors.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Count Divisors\obj\Debug\net8.0\ref\Count Divisors.dll
