@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Take Gifts From the Richest Pile/1.0.0": {
+        "runtime": {
+          "Take Gifts From the Richest Pile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Take Gifts From the Richest Pile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

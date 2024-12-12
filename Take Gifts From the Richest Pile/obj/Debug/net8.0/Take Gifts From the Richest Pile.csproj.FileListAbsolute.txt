@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\bin\Debug\net8.0\Take Gifts From the Richest Pile.exe
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\bin\Debug\net8.0\Take Gifts From the Richest Pile.deps.json
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\bin\Debug\net8.0\Take Gifts From the Richest Pile.runtimeconfig.json
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\bin\Debug\net8.0\Take Gifts From the Richest Pile.dll
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\bin\Debug\net8.0\Take Gifts From the Richest Pile.pdb
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.sourcelink.json
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.dll
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\refint\Take Gifts From the Richest Pile.dll
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.pdb
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\Take Gifts From the Richest Pile.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Take Gifts From the Richest Pile\obj\Debug\net8.0\ref\Take Gifts From the Richest Pile.dll
