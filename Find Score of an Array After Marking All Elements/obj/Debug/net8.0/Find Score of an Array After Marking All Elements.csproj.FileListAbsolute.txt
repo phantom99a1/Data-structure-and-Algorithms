@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\bin\Debug\net8.0\Find Score of an Array After Marking All Elements.exe
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\bin\Debug\net8.0\Find Score of an Array After Marking All Elements.deps.json
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\bin\Debug\net8.0\Find Score of an Array After Marking All Elements.runtimeconfig.json
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\bin\Debug\net8.0\Find Score of an Array After Marking All Elements.dll
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\bin\Debug\net8.0\Find Score of an Array After Marking All Elements.pdb
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.sourcelink.json
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.dll
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\refint\Find Score of an Array After Marking All Elements.dll
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.pdb
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\Find Score of an Array After Marking All Elements.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find Score of an Array After Marking All Elements\obj\Debug\net8.0\ref\Find Score of an Array After Marking All Elements.dll
