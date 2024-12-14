@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Continuous Subarrays\bin\Debug\net8.0\Continuous Subarrays.exe
+D:\Data Structure and Algorithms\Continuous Subarrays\bin\Debug\net8.0\Continuous Subarrays.deps.json
+D:\Data Structure and Algorithms\Continuous Subarrays\bin\Debug\net8.0\Continuous Subarrays.runtimeconfig.json
+D:\Data Structure and Algorithms\Continuous Subarrays\bin\Debug\net8.0\Continuous Subarrays.dll
+D:\Data Structure and Algorithms\Continuous Subarrays\bin\Debug\net8.0\Continuous Subarrays.pdb
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.sourcelink.json
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.dll
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\refint\Continuous Subarrays.dll
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.pdb
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\Continuous Subarrays.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Continuous Subarrays\obj\Debug\net8.0\ref\Continuous Subarrays.dll
