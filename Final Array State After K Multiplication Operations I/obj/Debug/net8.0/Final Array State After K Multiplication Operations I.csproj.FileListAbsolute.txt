@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\bin\Debug\net8.0\Final Array State After K Multiplication Operations I.exe
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\bin\Debug\net8.0\Final Array State After K Multiplication Operations I.deps.json
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\bin\Debug\net8.0\Final Array State After K Multiplication Operations I.runtimeconfig.json
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\bin\Debug\net8.0\Final Array State After K Multiplication Operations I.dll
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\bin\Debug\net8.0\Final Array State After K Multiplication Operations I.pdb
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.sourcelink.json
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.dll
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\refint\Final Array State After K Multiplication Operations I.dll
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.pdb
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\Final Array State After K Multiplication Operations I.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Final Array State After K Multiplication Operations I\obj\Debug\net8.0\ref\Final Array State After K Multiplication Operations I.dll
