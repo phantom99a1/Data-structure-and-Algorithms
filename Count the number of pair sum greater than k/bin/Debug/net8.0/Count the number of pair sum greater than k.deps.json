@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Count the number of pair sum greater than k/1.0.0": {
+        "runtime": {
+          "Count the number of pair sum greater than k.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count the number of pair sum greater than k/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
