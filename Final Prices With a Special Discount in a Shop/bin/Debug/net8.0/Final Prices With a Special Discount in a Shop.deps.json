@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Final Prices With a Special Discount in a Shop/1.0.0": {
+        "runtime": {
+          "Final Prices With a Special Discount in a Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final Prices With a Special Discount in a Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\bin\Debug\net8.0\Final Prices With a Special Discount in a Shop.exe
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\bin\Debug\net8.0\Final Prices With a Special Discount in a Shop.deps.json
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\bin\Debug\net8.0\Final Prices With a Special Discount in a Shop.runtimeconfig.json
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\bin\Debug\net8.0\Final Prices With a Special Discount in a Shop.dll
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\bin\Debug\net8.0\Final Prices With a Special Discount in a Shop.pdb
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.sourcelink.json
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.dll
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\refint\Final Prices With a Special Discount in a Shop.dll
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.pdb
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\Final Prices With a Special Discount in a Shop.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Final Prices With a Special Discount in a Shop\obj\Debug\net8.0\ref\Final Prices With a Special Discount in a Shop.dll
