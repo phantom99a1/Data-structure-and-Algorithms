@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\bin\Debug\net8.0\Reverse Odd Levels of Binary Tree.exe
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\bin\Debug\net8.0\Reverse Odd Levels of Binary Tree.deps.json
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\bin\Debug\net8.0\Reverse Odd Levels of Binary Tree.runtimeconfig.json
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\bin\Debug\net8.0\Reverse Odd Levels of Binary Tree.dll
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\bin\Debug\net8.0\Reverse Odd Levels of Binary Tree.pdb
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.sourcelink.json
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.dll
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\refint\Reverse Odd Levels of Binary Tree.dll
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.pdb
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\Reverse Odd Levels of Binary Tree.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Reverse Odd Levels of Binary Tree\obj\Debug\net8.0\ref\Reverse Odd Levels of Binary Tree.dll
