@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\bin\Debug\net8.0\Maximum Number of K-Divisible Components.exe
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\bin\Debug\net8.0\Maximum Number of K-Divisible Components.deps.json
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\bin\Debug\net8.0\Maximum Number of K-Divisible Components.runtimeconfig.json
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\bin\Debug\net8.0\Maximum Number of K-Divisible Components.dll
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\bin\Debug\net8.0\Maximum Number of K-Divisible Components.pdb
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.sourcelink.json
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.dll
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\refint\Maximum Number of K-Divisible Components.dll
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.pdb
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\Maximum Number of K-Divisible Components.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Maximum Number of K-Divisible Components\obj\Debug\net8.0\ref\Maximum Number of K-Divisible Components.dll
