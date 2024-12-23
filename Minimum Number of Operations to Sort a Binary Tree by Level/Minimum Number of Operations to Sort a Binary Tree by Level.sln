@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Number of Operations to Sort a Binary Tree by Level", "Minimum Number of Operations to Sort a Binary Tree by Level.csproj", "{4A698BDA-919E-4803-993C-EDE5A514F203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A698BDA-919E-4803-993C-EDE5A514F203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A698BDA-919E-4803-993C-EDE5A514F203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A698BDA-919E-4803-993C-EDE5A514F203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A698BDA-919E-4803-993C-EDE5A514F203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8F5C8C-B0C5-40AD-A3EA-2DB220246EBB}
+	EndGlobalSection
+EndGlobal
