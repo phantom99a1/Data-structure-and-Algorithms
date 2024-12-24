@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Find Minimum Diameter After Merging Two Trees/1.0.0": {
+        "runtime": {
+          "Find Minimum Diameter After Merging Two Trees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find Minimum Diameter After Merging Two Trees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
