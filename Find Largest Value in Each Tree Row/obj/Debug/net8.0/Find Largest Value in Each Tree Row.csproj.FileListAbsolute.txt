@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\bin\Debug\net8.0\Find Largest Value in Each Tree Row.exe
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\bin\Debug\net8.0\Find Largest Value in Each Tree Row.deps.json
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\bin\Debug\net8.0\Find Largest Value in Each Tree Row.runtimeconfig.json
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\bin\Debug\net8.0\Find Largest Value in Each Tree Row.dll
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\bin\Debug\net8.0\Find Largest Value in Each Tree Row.pdb
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.sourcelink.json
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.dll
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\refint\Find Largest Value in Each Tree Row.dll
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.pdb
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\Find Largest Value in Each Tree Row.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find Largest Value in Each Tree Row\obj\Debug\net8.0\ref\Find Largest Value in Each Tree Row.dll

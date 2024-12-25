@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Largest Value in Each Tree Row", "Find Largest Value in Each Tree Row.csproj", "{2B878D19-61CD-4D72-AA4E-9E80B20A75EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B878D19-61CD-4D72-AA4E-9E80B20A75EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B878D19-61CD-4D72-AA4E-9E80B20A75EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B878D19-61CD-4D72-AA4E-9E80B20A75EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B878D19-61CD-4D72-AA4E-9E80B20A75EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB2F50F-8328-4019-ACAC-89AD845CA148}
+	EndGlobalSection
+EndGlobal
