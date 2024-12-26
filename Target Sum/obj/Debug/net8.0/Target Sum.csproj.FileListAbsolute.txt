@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Target Sum\bin\Debug\net8.0\Target Sum.exe
+D:\Data Structure and Algorithms\Target Sum\bin\Debug\net8.0\Target Sum.deps.json
+D:\Data Structure and Algorithms\Target Sum\bin\Debug\net8.0\Target Sum.runtimeconfig.json
+D:\Data Structure and Algorithms\Target Sum\bin\Debug\net8.0\Target Sum.dll
+D:\Data Structure and Algorithms\Target Sum\bin\Debug\net8.0\Target Sum.pdb
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.sourcelink.json
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.dll
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\refint\Target Sum.dll
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.pdb
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\Target Sum.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Target Sum\obj\Debug\net8.0\ref\Target Sum.dll
