@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Sum of 3 Non-Overlapping Subarrays", "Maximum Sum of 3 Non-Overlapping Subarrays.csproj", "{4CBB4162-3623-4998-906F-28717B33639F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBB4162-3623-4998-906F-28717B33639F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBB4162-3623-4998-906F-28717B33639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBB4162-3623-4998-906F-28717B33639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBB4162-3623-4998-906F-28717B33639F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20D3E57-82B4-4F2D-B22C-FD2D55243CE0}
+	EndGlobalSection
+EndGlobal
