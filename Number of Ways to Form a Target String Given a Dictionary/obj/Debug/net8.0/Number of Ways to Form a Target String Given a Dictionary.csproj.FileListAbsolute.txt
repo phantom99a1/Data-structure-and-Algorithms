@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.exe
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.deps.json
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.runtimeconfig.json
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.dll
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\bin\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.pdb
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.sourcelink.json
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.dll
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\refint\Number of Ways to Form a Target String Given a Dictionary.dll
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.pdb
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\Number of Ways to Form a Target String Given a Dictionary.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Number of Ways to Form a Target String Given a Dictionary\obj\Debug\net8.0\ref\Number of Ways to Form a Target String Given a Dictionary.dll
