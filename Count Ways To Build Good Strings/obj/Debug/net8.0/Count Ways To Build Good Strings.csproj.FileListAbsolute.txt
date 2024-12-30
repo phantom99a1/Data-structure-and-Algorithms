@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\bin\Debug\net8.0\Count Ways To Build Good Strings.exe
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\bin\Debug\net8.0\Count Ways To Build Good Strings.deps.json
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\bin\Debug\net8.0\Count Ways To Build Good Strings.runtimeconfig.json
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\bin\Debug\net8.0\Count Ways To Build Good Strings.dll
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\bin\Debug\net8.0\Count Ways To Build Good Strings.pdb
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.sourcelink.json
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.dll
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\refint\Count Ways To Build Good Strings.dll
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.pdb
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\Count Ways To Build Good Strings.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Count Ways To Build Good Strings\obj\Debug\net8.0\ref\Count Ways To Build Good Strings.dll
