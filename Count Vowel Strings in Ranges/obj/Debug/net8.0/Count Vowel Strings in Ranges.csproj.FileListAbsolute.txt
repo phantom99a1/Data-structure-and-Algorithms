@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\bin\Debug\net8.0\Count Vowel Strings in Ranges.exe
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\bin\Debug\net8.0\Count Vowel Strings in Ranges.deps.json
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\bin\Debug\net8.0\Count Vowel Strings in Ranges.runtimeconfig.json
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\bin\Debug\net8.0\Count Vowel Strings in Ranges.dll
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\bin\Debug\net8.0\Count Vowel Strings in Ranges.pdb
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.sourcelink.json
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.dll
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\refint\Count Vowel Strings in Ranges.dll
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.pdb
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\Count Vowel Strings in Ranges.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Count Vowel Strings in Ranges\obj\Debug\net8.0\ref\Count Vowel Strings in Ranges.dll
