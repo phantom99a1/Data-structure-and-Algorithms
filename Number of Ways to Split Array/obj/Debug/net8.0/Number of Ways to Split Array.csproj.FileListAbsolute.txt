@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Number of Ways to Split Array\bin\Debug\net8.0\Number of Ways to Split Array.exe
+D:\Data Structure and Algorithms\Number of Ways to Split Array\bin\Debug\net8.0\Number of Ways to Split Array.deps.json
+D:\Data Structure and Algorithms\Number of Ways to Split Array\bin\Debug\net8.0\Number of Ways to Split Array.runtimeconfig.json
+D:\Data Structure and Algorithms\Number of Ways to Split Array\bin\Debug\net8.0\Number of Ways to Split Array.dll
+D:\Data Structure and Algorithms\Number of Ways to Split Array\bin\Debug\net8.0\Number of Ways to Split Array.pdb
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.sourcelink.json
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.dll
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\refint\Number of Ways to Split Array.dll
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.pdb
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\Number of Ways to Split Array.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Number of Ways to Split Array\obj\Debug\net8.0\ref\Number of Ways to Split Array.dll
