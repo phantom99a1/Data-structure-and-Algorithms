@@ -12,3 +12,4 @@ D:\Data Structure and Algorithms\CountDay\obj\Debug\net8.0\refint\CountDay.dll
 D:\Data Structure and Algorithms\CountDay\obj\Debug\net8.0\CountDay.pdb
 D:\Data Structure and Algorithms\CountDay\obj\Debug\net8.0\CountDay.genruntimeconfig.cache
 D:\Data Structure and Algorithms\CountDay\obj\Debug\net8.0\ref\CountDay.dll
+D:\Data Structure and Algorithms\CountDay\obj\Debug\net8.0\CountDay.sourcelink.json

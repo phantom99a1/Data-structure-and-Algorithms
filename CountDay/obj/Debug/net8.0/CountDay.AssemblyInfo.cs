@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountDay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+356796c076e48e189d406026d41dc60bd44bea84")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountDay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountDay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
