@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Shifting Letters II\bin\Debug\net8.0\Shifting Letters II.exe
+D:\Data Structure and Algorithms\Shifting Letters II\bin\Debug\net8.0\Shifting Letters II.deps.json
+D:\Data Structure and Algorithms\Shifting Letters II\bin\Debug\net8.0\Shifting Letters II.runtimeconfig.json
+D:\Data Structure and Algorithms\Shifting Letters II\bin\Debug\net8.0\Shifting Letters II.dll
+D:\Data Structure and Algorithms\Shifting Letters II\bin\Debug\net8.0\Shifting Letters II.pdb
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.sourcelink.json
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.dll
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\refint\Shifting Letters II.dll
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.pdb
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\Shifting Letters II.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Shifting Letters II\obj\Debug\net8.0\ref\Shifting Letters II.dll
