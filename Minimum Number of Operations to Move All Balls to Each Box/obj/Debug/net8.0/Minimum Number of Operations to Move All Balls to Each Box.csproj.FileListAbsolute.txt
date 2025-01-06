@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\bin\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.exe
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\bin\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.deps.json
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\bin\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.runtimeconfig.json
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\bin\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.dll
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\bin\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.pdb
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.sourcelink.json
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.dll
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\refint\Minimum Number of Operations to Move All Balls to Each Box.dll
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.pdb
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\Minimum Number of Operations to Move All Balls to Each Box.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Minimum Number of Operations to Move All Balls to Each Box\obj\Debug\net8.0\ref\Minimum Number of Operations to Move All Balls to Each Box.dll
