@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\String Matching in an Array\bin\Debug\net8.0\String Matching in an Array.exe
+D:\Data Structure and Algorithms\String Matching in an Array\bin\Debug\net8.0\String Matching in an Array.deps.json
+D:\Data Structure and Algorithms\String Matching in an Array\bin\Debug\net8.0\String Matching in an Array.runtimeconfig.json
+D:\Data Structure and Algorithms\String Matching in an Array\bin\Debug\net8.0\String Matching in an Array.dll
+D:\Data Structure and Algorithms\String Matching in an Array\bin\Debug\net8.0\String Matching in an Array.pdb
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.AssemblyInfo.cs
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.sourcelink.json
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.dll
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\refint\String Matching in an Array.dll
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.pdb
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\String Matching in an Array.genruntimeconfig.cache
+D:\Data Structure and Algorithms\String Matching in an Array\obj\Debug\net8.0\ref\String Matching in an Array.dll
