@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\bin\Debug\net8.0\Count Prefix and Suffix Pairs I.exe
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\bin\Debug\net8.0\Count Prefix and Suffix Pairs I.deps.json
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\bin\Debug\net8.0\Count Prefix and Suffix Pairs I.runtimeconfig.json
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\bin\Debug\net8.0\Count Prefix and Suffix Pairs I.dll
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\bin\Debug\net8.0\Count Prefix and Suffix Pairs I.pdb
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.sourcelink.json
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.dll
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\refint\Count Prefix and Suffix Pairs I.dll
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.pdb
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\Count Prefix and Suffix Pairs I.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Count Prefix and Suffix Pairs I\obj\Debug\net8.0\ref\Count Prefix and Suffix Pairs I.dll

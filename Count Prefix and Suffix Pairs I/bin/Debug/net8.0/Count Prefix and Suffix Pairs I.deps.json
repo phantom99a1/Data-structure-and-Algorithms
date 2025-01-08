@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Count Prefix and Suffix Pairs I/1.0.0": {
+        "runtime": {
+          "Count Prefix and Suffix Pairs I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count Prefix and Suffix Pairs I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
