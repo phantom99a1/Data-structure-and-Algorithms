@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\bin\Debug\net8.0\Counting Words With a Given Prefix.exe
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\bin\Debug\net8.0\Counting Words With a Given Prefix.deps.json
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\bin\Debug\net8.0\Counting Words With a Given Prefix.runtimeconfig.json
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\bin\Debug\net8.0\Counting Words With a Given Prefix.dll
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\bin\Debug\net8.0\Counting Words With a Given Prefix.pdb
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.sourcelink.json
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.dll
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\refint\Counting Words With a Given Prefix.dll
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.pdb
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\Counting Words With a Given Prefix.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Counting Words With a Given Prefix\obj\Debug\net8.0\ref\Counting Words With a Given Prefix.dll
