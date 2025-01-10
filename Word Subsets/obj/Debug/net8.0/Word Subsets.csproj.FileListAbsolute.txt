@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Word Subsets\bin\Debug\net8.0\Word Subsets.exe
+D:\Data Structure and Algorithms\Word Subsets\bin\Debug\net8.0\Word Subsets.deps.json
+D:\Data Structure and Algorithms\Word Subsets\bin\Debug\net8.0\Word Subsets.runtimeconfig.json
+D:\Data Structure and Algorithms\Word Subsets\bin\Debug\net8.0\Word Subsets.dll
+D:\Data Structure and Algorithms\Word Subsets\bin\Debug\net8.0\Word Subsets.pdb
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.sourcelink.json
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.dll
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\refint\Word Subsets.dll
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.pdb
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\Word Subsets.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Word Subsets\obj\Debug\net8.0\ref\Word Subsets.dll
