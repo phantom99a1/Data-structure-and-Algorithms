@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\bin\Debug\net8.0\Construct K Palindrome Strings.exe
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\bin\Debug\net8.0\Construct K Palindrome Strings.deps.json
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\bin\Debug\net8.0\Construct K Palindrome Strings.runtimeconfig.json
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\bin\Debug\net8.0\Construct K Palindrome Strings.dll
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\bin\Debug\net8.0\Construct K Palindrome Strings.pdb
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.sourcelink.json
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.dll
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\refint\Construct K Palindrome Strings.dll
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.pdb
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\Construct K Palindrome Strings.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Construct K Palindrome Strings\obj\Debug\net8.0\ref\Construct K Palindrome Strings.dll
