@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\bin\Debug\net8.0\Minimum Length of String After Operations.exe
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\bin\Debug\net8.0\Minimum Length of String After Operations.deps.json
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\bin\Debug\net8.0\Minimum Length of String After Operations.runtimeconfig.json
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\bin\Debug\net8.0\Minimum Length of String After Operations.dll
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\bin\Debug\net8.0\Minimum Length of String After Operations.pdb
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.sourcelink.json
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.dll
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\refint\Minimum Length of String After Operations.dll
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.pdb
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\Minimum Length of String After Operations.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Minimum Length of String After Operations\obj\Debug\net8.0\ref\Minimum Length of String After Operations.dll
