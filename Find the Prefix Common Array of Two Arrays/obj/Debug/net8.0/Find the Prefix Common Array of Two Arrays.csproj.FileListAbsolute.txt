@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\bin\Debug\net8.0\Find the Prefix Common Array of Two Arrays.exe
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\bin\Debug\net8.0\Find the Prefix Common Array of Two Arrays.deps.json
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\bin\Debug\net8.0\Find the Prefix Common Array of Two Arrays.runtimeconfig.json
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\bin\Debug\net8.0\Find the Prefix Common Array of Two Arrays.dll
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\bin\Debug\net8.0\Find the Prefix Common Array of Two Arrays.pdb
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.sourcelink.json
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.dll
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\refint\Find the Prefix Common Array of Two Arrays.dll
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.pdb
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\Find the Prefix Common Array of Two Arrays.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find the Prefix Common Array of Two Arrays\obj\Debug\net8.0\ref\Find the Prefix Common Array of Two Arrays.dll
