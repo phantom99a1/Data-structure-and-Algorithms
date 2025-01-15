@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Minimize XOR\bin\Debug\net8.0\Minimize XOR.exe
+D:\Data Structure and Algorithms\Minimize XOR\bin\Debug\net8.0\Minimize XOR.deps.json
+D:\Data Structure and Algorithms\Minimize XOR\bin\Debug\net8.0\Minimize XOR.runtimeconfig.json
+D:\Data Structure and Algorithms\Minimize XOR\bin\Debug\net8.0\Minimize XOR.dll
+D:\Data Structure and Algorithms\Minimize XOR\bin\Debug\net8.0\Minimize XOR.pdb
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.sourcelink.json
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.dll
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\refint\Minimize XOR.dll
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.pdb
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\Minimize XOR.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Minimize XOR\obj\Debug\net8.0\ref\Minimize XOR.dll
