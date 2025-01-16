@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bitwise XOR of All Pairings/1.0.0": {
+        "runtime": {
+          "Bitwise XOR of All Pairings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitwise XOR of All Pairings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\bin\Debug\net8.0\Bitwise XOR of All Pairings.exe
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\bin\Debug\net8.0\Bitwise XOR of All Pairings.deps.json
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\bin\Debug\net8.0\Bitwise XOR of All Pairings.runtimeconfig.json
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\bin\Debug\net8.0\Bitwise XOR of All Pairings.dll
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\bin\Debug\net8.0\Bitwise XOR of All Pairings.pdb
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.sourcelink.json
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.dll
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\refint\Bitwise XOR of All Pairings.dll
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.pdb
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\Bitwise XOR of All Pairings.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Bitwise XOR of All Pairings\obj\Debug\net8.0\ref\Bitwise XOR of All Pairings.dll
