@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Neighboring Bitwise XOR/1.0.0": {
+        "runtime": {
+          "Neighboring Bitwise XOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neighboring Bitwise XOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

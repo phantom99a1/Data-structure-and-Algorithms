@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\bin\Debug\net8.0\Neighboring Bitwise XOR.exe
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\bin\Debug\net8.0\Neighboring Bitwise XOR.deps.json
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\bin\Debug\net8.0\Neighboring Bitwise XOR.runtimeconfig.json
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\bin\Debug\net8.0\Neighboring Bitwise XOR.dll
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\bin\Debug\net8.0\Neighboring Bitwise XOR.pdb
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.sourcelink.json
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.dll
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\refint\Neighboring Bitwise XOR.dll
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.pdb
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\Neighboring Bitwise XOR.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Neighboring Bitwise XOR\obj\Debug\net8.0\ref\Neighboring Bitwise XOR.dll
