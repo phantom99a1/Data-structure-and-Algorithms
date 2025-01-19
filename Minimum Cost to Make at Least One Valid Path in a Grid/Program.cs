@@ -29,18 +29,21 @@
             [1, 0],  // down
             [-1, 0]  // up
         ];
-
+        private const int minLength = 1;
+        private const int maxLength = 100;
+        private const int minValue = 1;
+        private const int maxValue = 4;
         public static void Main()
         {
-            int[][]? grid = GetValidInput("Enter the grid (rows separated by ';', cells by ','): ");
+            int[][] grid = GetValidInput("Enter the grid (rows separated by ';', cells by ','): ");
             int minCost = MinCost(grid);
             Console.WriteLine("Minimum cost to make at least one valid path: " + minCost);
             Console.ReadKey();
         }
 
-        public static bool IsValidInput(string input, out List<string> errorMessages, out int[][]? grid)
+        public static bool IsValidInput(string input, out List<string> errorMessages, out int[][] grid)
         {
-            grid = null;
+            grid = [];
             errorMessages = [];
 
             if (string.IsNullOrWhiteSpace(input))
@@ -53,9 +56,9 @@
             grid = rows.Select(row => row.Split(',').Select(int.Parse).ToArray()).ToArray();
 
             int m = grid.Length;
-            if (m < 1 || m > 100)
+            if (m < minLength || m > maxLength)
             {
-                errorMessages.Add("The number of rows must be between 1 and 100.");
+                errorMessages.Add($"The number of rows must be between {minLength} and {maxLength}.");
             }
 
             int n = grid[0].Length;
@@ -64,21 +67,21 @@
                 errorMessages.Add("All rows must have the same length.");
             }
 
-            if (grid.Any(row => row.Any(cell => cell < 1 || cell > 4)))
+            if (grid.Any(row => row.Any(cell => cell < minValue || cell > maxValue)))
             {
-                errorMessages.Add("Each cell value must be between 1 and 4.");
+                errorMessages.Add($"Each cell value must be between {minValue} and {maxValue}.");
             }
 
             return errorMessages.Count == 0;
         }
 
-        public static int[][]? GetValidInput(string prompt)
+        public static int[][] GetValidInput(string prompt)
         {
             while (true)
             {
                 Console.Write(prompt);
                 string input = Console.ReadLine() ?? "";
-                if (IsValidInput(input, out List<string> errorMessages, out int[][]? grid))
+                if (IsValidInput(input, out List<string> errorMessages, out int[][] grid))
                 {
                     return grid;
                 }
@@ -93,7 +96,7 @@
             }
         }
 
-        public static int MinCost(int[][]? grid)
+        public static int MinCost(int[][] grid)
         {
             int m = grid.Length, n = grid[0].Length;
             var cost = new int[m][];
