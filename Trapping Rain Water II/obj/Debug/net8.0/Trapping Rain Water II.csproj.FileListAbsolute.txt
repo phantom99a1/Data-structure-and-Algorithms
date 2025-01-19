@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Trapping Rain Water II\bin\Debug\net8.0\Trapping Rain Water II.exe
+D:\Data Structure and Algorithms\Trapping Rain Water II\bin\Debug\net8.0\Trapping Rain Water II.deps.json
+D:\Data Structure and Algorithms\Trapping Rain Water II\bin\Debug\net8.0\Trapping Rain Water II.runtimeconfig.json
+D:\Data Structure and Algorithms\Trapping Rain Water II\bin\Debug\net8.0\Trapping Rain Water II.dll
+D:\Data Structure and Algorithms\Trapping Rain Water II\bin\Debug\net8.0\Trapping Rain Water II.pdb
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.sourcelink.json
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.dll
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\refint\Trapping Rain Water II.dll
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.pdb
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\Trapping Rain Water II.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Trapping Rain Water II\obj\Debug\net8.0\ref\Trapping Rain Water II.dll
