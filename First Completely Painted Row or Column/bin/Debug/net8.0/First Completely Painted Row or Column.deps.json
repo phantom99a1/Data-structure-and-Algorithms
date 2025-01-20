@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "First Completely Painted Row or Column/1.0.0": {
+        "runtime": {
+          "First Completely Painted Row or Column.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First Completely Painted Row or Column/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
