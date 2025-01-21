@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Grid Game\bin\Debug\net8.0\Grid Game.exe
+D:\Data Structure and Algorithms\Grid Game\bin\Debug\net8.0\Grid Game.deps.json
+D:\Data Structure and Algorithms\Grid Game\bin\Debug\net8.0\Grid Game.runtimeconfig.json
+D:\Data Structure and Algorithms\Grid Game\bin\Debug\net8.0\Grid Game.dll
+D:\Data Structure and Algorithms\Grid Game\bin\Debug\net8.0\Grid Game.pdb
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.sourcelink.json
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.dll
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\refint\Grid Game.dll
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.pdb
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\Grid Game.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Grid Game\obj\Debug\net8.0\ref\Grid Game.dll
