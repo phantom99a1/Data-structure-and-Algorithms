@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Map of Highest Peak/1.0.0": {
+        "runtime": {
+          "Map of Highest Peak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Map of Highest Peak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
