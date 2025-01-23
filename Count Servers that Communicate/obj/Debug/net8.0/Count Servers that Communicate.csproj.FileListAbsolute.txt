@@ -1,0 +1,14 @@
+D:\Social Media Fullstack\Count Servers that Communicate\bin\Debug\net8.0\Count Servers that Communicate.exe
+D:\Social Media Fullstack\Count Servers that Communicate\bin\Debug\net8.0\Count Servers that Communicate.deps.json
+D:\Social Media Fullstack\Count Servers that Communicate\bin\Debug\net8.0\Count Servers that Communicate.runtimeconfig.json
+D:\Social Media Fullstack\Count Servers that Communicate\bin\Debug\net8.0\Count Servers that Communicate.dll
+D:\Social Media Fullstack\Count Servers that Communicate\bin\Debug\net8.0\Count Servers that Communicate.pdb
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.AssemblyInfoInputs.cache
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.AssemblyInfo.cs
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.csproj.CoreCompileInputs.cache
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.dll
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\refint\Count Servers that Communicate.dll
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.pdb
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\Count Servers that Communicate.genruntimeconfig.cache
+D:\Social Media Fullstack\Count Servers that Communicate\obj\Debug\net8.0\ref\Count Servers that Communicate.dll
