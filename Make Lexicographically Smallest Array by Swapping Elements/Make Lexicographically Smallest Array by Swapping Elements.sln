@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make Lexicographically Smallest Array by Swapping Elements", "Make Lexicographically Smallest Array by Swapping Elements.csproj", "{803C7DC6-6ED5-4735-B79A-D97B0BE9D03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803C7DC6-6ED5-4735-B79A-D97B0BE9D03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803C7DC6-6ED5-4735-B79A-D97B0BE9D03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803C7DC6-6ED5-4735-B79A-D97B0BE9D03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803C7DC6-6ED5-4735-B79A-D97B0BE9D03B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20937B67-B886-4E70-BB9B-B6C39EF52A28}
+	EndGlobalSection
+EndGlobal
