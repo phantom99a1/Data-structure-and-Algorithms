@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Maximum Employees to Be Invited to a Meeting/1.0.0": {
+        "runtime": {
+          "Maximum Employees to Be Invited to a Meeting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maximum Employees to Be Invited to a Meeting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
