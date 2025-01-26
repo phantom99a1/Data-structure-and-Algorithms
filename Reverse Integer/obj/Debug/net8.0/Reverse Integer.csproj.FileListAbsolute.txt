@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Reverse Integer\bin\Debug\net8.0\Reverse Integer.exe
+D:\Data Structure and Algorithms\Reverse Integer\bin\Debug\net8.0\Reverse Integer.deps.json
+D:\Data Structure and Algorithms\Reverse Integer\bin\Debug\net8.0\Reverse Integer.runtimeconfig.json
+D:\Data Structure and Algorithms\Reverse Integer\bin\Debug\net8.0\Reverse Integer.dll
+D:\Data Structure and Algorithms\Reverse Integer\bin\Debug\net8.0\Reverse Integer.pdb
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.sourcelink.json
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.dll
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\refint\Reverse Integer.dll
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.pdb
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\Reverse Integer.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Reverse Integer\obj\Debug\net8.0\ref\Reverse Integer.dll
