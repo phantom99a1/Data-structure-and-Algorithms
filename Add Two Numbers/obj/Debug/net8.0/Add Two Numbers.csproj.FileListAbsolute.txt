@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.exe
+D:\Data Structure and Algorithms\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.deps.json
+D:\Data Structure and Algorithms\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.runtimeconfig.json
+D:\Data Structure and Algorithms\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.dll
+D:\Data Structure and Algorithms\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.pdb
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.sourcelink.json
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.dll
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\refint\Add Two Numbers.dll
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.pdb
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Add Two Numbers\obj\Debug\net8.0\ref\Add Two Numbers.dll
