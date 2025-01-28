@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\bin\Debug\net8.0\Maximum Number of Fish in a Grid.exe
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\bin\Debug\net8.0\Maximum Number of Fish in a Grid.deps.json
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\bin\Debug\net8.0\Maximum Number of Fish in a Grid.runtimeconfig.json
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\bin\Debug\net8.0\Maximum Number of Fish in a Grid.dll
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\bin\Debug\net8.0\Maximum Number of Fish in a Grid.pdb
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.sourcelink.json
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.dll
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\refint\Maximum Number of Fish in a Grid.dll
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.pdb
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\Maximum Number of Fish in a Grid.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Maximum Number of Fish in a Grid\obj\Debug\net8.0\ref\Maximum Number of Fish in a Grid.dll
