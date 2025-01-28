@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\bin\Debug\net8.0\Sexagenary Cycle Calendar.exe
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\bin\Debug\net8.0\Sexagenary Cycle Calendar.deps.json
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\bin\Debug\net8.0\Sexagenary Cycle Calendar.runtimeconfig.json
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\bin\Debug\net8.0\Sexagenary Cycle Calendar.dll
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\bin\Debug\net8.0\Sexagenary Cycle Calendar.pdb
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.sourcelink.json
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.dll
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\refint\Sexagenary Cycle Calendar.dll
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.pdb
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\Sexagenary Cycle Calendar.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Sexagenary Cycle Calendar\obj\Debug\net8.0\ref\Sexagenary Cycle Calendar.dll
