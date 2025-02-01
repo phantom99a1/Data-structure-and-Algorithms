@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Special Array I\bin\Debug\net8.0\Special Array I.exe
+D:\Data Structure and Algorithms\Special Array I\bin\Debug\net8.0\Special Array I.deps.json
+D:\Data Structure and Algorithms\Special Array I\bin\Debug\net8.0\Special Array I.runtimeconfig.json
+D:\Data Structure and Algorithms\Special Array I\bin\Debug\net8.0\Special Array I.dll
+D:\Data Structure and Algorithms\Special Array I\bin\Debug\net8.0\Special Array I.pdb
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.sourcelink.json
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.dll
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\refint\Special Array I.dll
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.pdb
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\Special Array I.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Special Array I\obj\Debug\net8.0\ref\Special Array I.dll
