@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\bin\Debug\net8.0\Check if Array Is Sorted and Rotated.exe
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\bin\Debug\net8.0\Check if Array Is Sorted and Rotated.deps.json
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\bin\Debug\net8.0\Check if Array Is Sorted and Rotated.runtimeconfig.json
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\bin\Debug\net8.0\Check if Array Is Sorted and Rotated.dll
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\bin\Debug\net8.0\Check if Array Is Sorted and Rotated.pdb
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.sourcelink.json
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.dll
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\refint\Check if Array Is Sorted and Rotated.dll
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.pdb
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\Check if Array Is Sorted and Rotated.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Check if Array Is Sorted and Rotated\obj\Debug\net8.0\ref\Check if Array Is Sorted and Rotated.dll
