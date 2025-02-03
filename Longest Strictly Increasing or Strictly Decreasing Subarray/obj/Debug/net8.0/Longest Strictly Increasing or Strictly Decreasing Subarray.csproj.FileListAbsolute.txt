@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\bin\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.exe
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\bin\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.deps.json
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\bin\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.runtimeconfig.json
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\bin\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.dll
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\bin\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.pdb
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.sourcelink.json
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.dll
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\refint\Longest Strictly Increasing or Strictly Decreasing Subarray.dll
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.pdb
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\Longest Strictly Increasing or Strictly Decreasing Subarray.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Longest Strictly Increasing or Strictly Decreasing Subarray\obj\Debug\net8.0\ref\Longest Strictly Increasing or Strictly Decreasing Subarray.dll

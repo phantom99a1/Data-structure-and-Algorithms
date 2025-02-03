@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Longest Strictly Increasing or Strictly Decreasing Subarray/1.0.0": {
+        "runtime": {
+          "Longest Strictly Increasing or Strictly Decreasing Subarray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Longest Strictly Increasing or Strictly Decreasing Subarray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
