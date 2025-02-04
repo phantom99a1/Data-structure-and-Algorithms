@@ -1,4 +1,6 @@
-﻿namespace Roman_to_Integer
+﻿using System.Text.RegularExpressions;
+
+namespace Roman_to_Integer
 {
     /*Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
     Symbol       Value
@@ -18,52 +20,74 @@
     I can be placed before V (5) and X (10) to make 4 and 9. 
     X can be placed before L (50) and C (100) to make 40 and 90. 
     C can be placed before D (500) and M (1000) to make 400 and 900.
-    Given a roman numeral, convert it to an integer.*/
-    class Program
+    Given a roman numeral, convert it to an integer.
+    
+    Constraint:
+    1 <= s.length <= 15
+    s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
+    It is guaranteed that s is a valid roman numeral in the range [1, 3999].
+     */
+
+    public partial class Program
     {
-        static void Main()
+        public static void Main()
         {
             string s;
             while (true)
             {
                 Console.WriteLine("Enter a Roman numeral:");
-                s = Console.ReadLine();
-                if (ValidateInput(s))
+                s = Console.ReadLine() ?? "";
+                if (ValidateInput(s) || IsValidRomanNumeral(s))
                 {
                     break;
                 }
             }
 
             Console.WriteLine("Integer value: " + RomanToInt(s));
+            Console.ReadKey();
         }
 
-        static bool ValidateInput(string s)
+        public static bool ValidateInput(string s)
         {
             if (s.Length < 1 || s.Length > 15)
             {
                 Console.WriteLine("Error: Length of the string must be between 1 and 15.");
                 return false;
             }
-            if (!System.Text.RegularExpressions.Regex.IsMatch(s, "^[IVXLCDM]+$"))
+            if (!MyRegex().IsMatch(s))
             {
                 Console.WriteLine("Error: The string must contain only the characters 'I', 'V', 'X', 'L', 'C', 'D', 'M'.");
                 return false;
             }
+            
+            return true;
+        }
+        public static bool IsValidRomanNumeral(string s)
+        {
+            // Regex pattern to match valid Roman numerals with proper constraints
+            string pattern = "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$";
+
+            if (!Regex.IsMatch(s, pattern))
+            {
+                Console.WriteLine("Error: Invalid Roman numeral sequence.");
+                return false;
+            }
+
             return true;
         }
 
-        static int RomanToInt(string s)
+        public static int RomanToInt(string s)
         {
             var romanMap = new Dictionary<char, int>
-        {
-            {'I', 1},
-            {'V', 5},
-            {'X', 10},
-            {'L', 50},
-            {'C', 100},
-            {'D', 500},
-            {'M', 1000}
-        };
+            {
+                {'I', 1},
+                {'V', 5},
+                {'X', 10},
+                {'L', 50},
+                {'C', 100},
+                {'D', 500},
+                {'M', 1000}
+            };
 
             int result = 0;
             for (int i = 0; i < s.Length; i++)
@@ -83,5 +107,8 @@
 
             return result;
         }
+
+        [GeneratedRegex("^[IVXLCDM]+$")]
+        private static partial Regex MyRegex();
     }
 }

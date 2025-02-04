@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Roman to Integer\bin\Debug\net8.0\Roman to Integer.exe
+D:\Data Structure and Algorithms\Roman to Integer\bin\Debug\net8.0\Roman to Integer.deps.json
+D:\Data Structure and Algorithms\Roman to Integer\bin\Debug\net8.0\Roman to Integer.runtimeconfig.json
+D:\Data Structure and Algorithms\Roman to Integer\bin\Debug\net8.0\Roman to Integer.dll
+D:\Data Structure and Algorithms\Roman to Integer\bin\Debug\net8.0\Roman to Integer.pdb
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.sourcelink.json
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.dll
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\refint\Roman to Integer.dll
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.pdb
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\Roman to Integer.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Roman to Integer\obj\Debug\net8.0\ref\Roman to Integer.dll
