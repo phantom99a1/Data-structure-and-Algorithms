@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\bin\Debug\net8.0\Maximum Ascending Subarray Sum.exe
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\bin\Debug\net8.0\Maximum Ascending Subarray Sum.deps.json
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\bin\Debug\net8.0\Maximum Ascending Subarray Sum.runtimeconfig.json
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\bin\Debug\net8.0\Maximum Ascending Subarray Sum.dll
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\bin\Debug\net8.0\Maximum Ascending Subarray Sum.pdb
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.sourcelink.json
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.dll
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\refint\Maximum Ascending Subarray Sum.dll
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.pdb
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\Maximum Ascending Subarray Sum.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Maximum Ascending Subarray Sum\obj\Debug\net8.0\ref\Maximum Ascending Subarray Sum.dll
