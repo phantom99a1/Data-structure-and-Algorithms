@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Check if One String Swap Can Make Strings Equal/1.0.0": {
+        "runtime": {
+          "Check if One String Swap Can Make Strings Equal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check if One String Swap Can Make Strings Equal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
