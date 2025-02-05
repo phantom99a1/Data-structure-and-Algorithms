@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\bin\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.exe
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\bin\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.deps.json
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\bin\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.runtimeconfig.json
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\bin\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.dll
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\bin\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.pdb
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.sourcelink.json
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.dll
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\refint\Make Lexicographically Smallest Array by Swapping Elements.dll
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.pdb
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\Make Lexicographically Smallest Array by Swapping Elements.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Make Lexicographically Smallest Array by Swapping Elements\obj\Debug\net8.0\ref\Make Lexicographically Smallest Array by Swapping Elements.dll

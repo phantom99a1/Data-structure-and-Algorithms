@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Make Lexicographically Smallest Array by Swapping Elements/1.0.0": {
+        "runtime": {
+          "Make Lexicographically Smallest Array by Swapping Elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Make Lexicographically Smallest Array by Swapping Elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
