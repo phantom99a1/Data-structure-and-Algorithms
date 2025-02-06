@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Tuple with Same Product\bin\Debug\net8.0\Tuple with Same Product.exe
+D:\Data Structure and Algorithms\Tuple with Same Product\bin\Debug\net8.0\Tuple with Same Product.deps.json
+D:\Data Structure and Algorithms\Tuple with Same Product\bin\Debug\net8.0\Tuple with Same Product.runtimeconfig.json
+D:\Data Structure and Algorithms\Tuple with Same Product\bin\Debug\net8.0\Tuple with Same Product.dll
+D:\Data Structure and Algorithms\Tuple with Same Product\bin\Debug\net8.0\Tuple with Same Product.pdb
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.sourcelink.json
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.dll
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\refint\Tuple with Same Product.dll
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.pdb
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\Tuple with Same Product.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Tuple with Same Product\obj\Debug\net8.0\ref\Tuple with Same Product.dll
