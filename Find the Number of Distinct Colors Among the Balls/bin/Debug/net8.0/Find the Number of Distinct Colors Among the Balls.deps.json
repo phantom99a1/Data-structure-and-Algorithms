@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Find the Number of Distinct Colors Among the Balls/1.0.0": {
+        "runtime": {
+          "Find the Number of Distinct Colors Among the Balls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the Number of Distinct Colors Among the Balls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

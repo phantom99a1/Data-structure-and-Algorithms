@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\bin\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.exe
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\bin\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.deps.json
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\bin\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.runtimeconfig.json
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\bin\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.dll
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\bin\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.pdb
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.sourcelink.json
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.dll
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\refint\Find the Number of Distinct Colors Among the Balls.dll
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.pdb
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\Find the Number of Distinct Colors Among the Balls.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find the Number of Distinct Colors Among the Balls\obj\Debug\net8.0\ref\Find the Number of Distinct Colors Among the Balls.dll
