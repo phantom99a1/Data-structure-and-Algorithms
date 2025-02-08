@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Design a Number Container System\bin\Debug\net8.0\Design a Number Container System.exe
+D:\Data Structure and Algorithms\Design a Number Container System\bin\Debug\net8.0\Design a Number Container System.deps.json
+D:\Data Structure and Algorithms\Design a Number Container System\bin\Debug\net8.0\Design a Number Container System.runtimeconfig.json
+D:\Data Structure and Algorithms\Design a Number Container System\bin\Debug\net8.0\Design a Number Container System.dll
+D:\Data Structure and Algorithms\Design a Number Container System\bin\Debug\net8.0\Design a Number Container System.pdb
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.sourcelink.json
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.dll
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\refint\Design a Number Container System.dll
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.pdb
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\Design a Number Container System.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Design a Number Container System\obj\Debug\net8.0\ref\Design a Number Container System.dll
