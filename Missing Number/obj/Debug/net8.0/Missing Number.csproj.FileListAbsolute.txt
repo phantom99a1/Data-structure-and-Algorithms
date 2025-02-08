@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Missing Number\bin\Debug\net8.0\Missing Number.exe
+D:\Data Structure and Algorithms\Missing Number\bin\Debug\net8.0\Missing Number.deps.json
+D:\Data Structure and Algorithms\Missing Number\bin\Debug\net8.0\Missing Number.runtimeconfig.json
+D:\Data Structure and Algorithms\Missing Number\bin\Debug\net8.0\Missing Number.dll
+D:\Data Structure and Algorithms\Missing Number\bin\Debug\net8.0\Missing Number.pdb
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.sourcelink.json
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.dll
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\refint\Missing Number.dll
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.pdb
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\Missing Number.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Missing Number\obj\Debug\net8.0\ref\Missing Number.dll
