@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Length of Last Word\bin\Debug\net8.0\Length of Last Word.exe
+D:\Data Structure and Algorithms\Length of Last Word\bin\Debug\net8.0\Length of Last Word.deps.json
+D:\Data Structure and Algorithms\Length of Last Word\bin\Debug\net8.0\Length of Last Word.runtimeconfig.json
+D:\Data Structure and Algorithms\Length of Last Word\bin\Debug\net8.0\Length of Last Word.dll
+D:\Data Structure and Algorithms\Length of Last Word\bin\Debug\net8.0\Length of Last Word.pdb
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.sourcelink.json
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.dll
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\refint\Length of Last Word.dll
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.pdb
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\Length of Last Word.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Length of Last Word\obj\Debug\net8.0\ref\Length of Last Word.dll
