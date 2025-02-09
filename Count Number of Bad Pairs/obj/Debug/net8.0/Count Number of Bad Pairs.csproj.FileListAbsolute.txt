@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.sourcelink.json
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\bin\Debug\net8.0\Count Number of Bad Pairs.exe
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\bin\Debug\net8.0\Count Number of Bad Pairs.deps.json
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\bin\Debug\net8.0\Count Number of Bad Pairs.runtimeconfig.json
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\bin\Debug\net8.0\Count Number of Bad Pairs.dll
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\bin\Debug\net8.0\Count Number of Bad Pairs.pdb
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.dll
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\refint\Count Number of Bad Pairs.dll
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.pdb
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\Count Number of Bad Pairs.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Count Number of Bad Pairs\obj\Debug\net8.0\ref\Count Number of Bad Pairs.dll
