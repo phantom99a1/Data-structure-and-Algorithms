@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\bin\Debug\net8.0\Find the Punishment Number of an Integer.exe
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\bin\Debug\net8.0\Find the Punishment Number of an Integer.deps.json
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\bin\Debug\net8.0\Find the Punishment Number of an Integer.runtimeconfig.json
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\bin\Debug\net8.0\Find the Punishment Number of an Integer.dll
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\bin\Debug\net8.0\Find the Punishment Number of an Integer.pdb
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.sourcelink.json
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.dll
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\refint\Find the Punishment Number of an Integer.dll
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.pdb
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\Find the Punishment Number of an Integer.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Find the Punishment Number of an Integer\obj\Debug\net8.0\ref\Find the Punishment Number of an Integer.dll
