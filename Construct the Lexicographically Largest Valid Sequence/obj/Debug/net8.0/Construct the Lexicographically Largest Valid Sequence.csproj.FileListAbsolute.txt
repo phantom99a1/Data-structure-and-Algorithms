@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\bin\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.exe
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\bin\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.deps.json
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\bin\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.runtimeconfig.json
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\bin\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.dll
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\bin\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.pdb
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.sourcelink.json
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.dll
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\refint\Construct the Lexicographically Largest Valid Sequence.dll
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.pdb
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\Construct the Lexicographically Largest Valid Sequence.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Construct the Lexicographically Largest Valid Sequence\obj\Debug\net8.0\ref\Construct the Lexicographically Largest Valid Sequence.dll

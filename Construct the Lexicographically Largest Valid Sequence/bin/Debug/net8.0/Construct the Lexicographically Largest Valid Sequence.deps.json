@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Construct the Lexicographically Largest Valid Sequence/1.0.0": {
+        "runtime": {
+          "Construct the Lexicographically Largest Valid Sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Construct the Lexicographically Largest Valid Sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
