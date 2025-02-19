@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\bin\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.exe
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\bin\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.deps.json
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\bin\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.runtimeconfig.json
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\bin\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.dll
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\bin\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.pdb
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.AssemblyInfo.cs
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.sourcelink.json
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.dll
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\refint\The k-th Lexicographical String of All Happy Strings of Length n.dll
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.pdb
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\The k-th Lexicographical String of All Happy Strings of Length n.genruntimeconfig.cache
+D:\Data Structure and Algorithms\The k-th Lexicographical String of All Happy Strings of Length n\obj\Debug\net8.0\ref\The k-th Lexicographical String of All Happy Strings of Length n.dll

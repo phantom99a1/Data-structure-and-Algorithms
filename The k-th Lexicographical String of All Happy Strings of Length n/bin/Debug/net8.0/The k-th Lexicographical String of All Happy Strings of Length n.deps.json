@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "The k-th Lexicographical String of All Happy Strings of Length n/1.0.0": {
+        "runtime": {
+          "The k-th Lexicographical String of All Happy Strings of Length n.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The k-th Lexicographical String of All Happy Strings of Length n/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
