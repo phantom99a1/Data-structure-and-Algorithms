@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.exe
+D:\Data Structure and Algorithms\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.deps.json
+D:\Data Structure and Algorithms\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.runtimeconfig.json
+D:\Data Structure and Algorithms\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.dll
+D:\Data Structure and Algorithms\Longest Palindromic Substring\bin\Debug\net8.0\Longest Palindromic Substring.pdb
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.sourcelink.json
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.dll
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\refint\Longest Palindromic Substring.dll
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.pdb
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\Longest Palindromic Substring.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Longest Palindromic Substring\obj\Debug\net8.0\ref\Longest Palindromic Substring.dll
