@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Construct Binary Tree from Preorder and Postorder Traversal/1.0.0": {
+        "runtime": {
+          "Construct Binary Tree from Preorder and Postorder Traversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Construct Binary Tree from Preorder and Postorder Traversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
