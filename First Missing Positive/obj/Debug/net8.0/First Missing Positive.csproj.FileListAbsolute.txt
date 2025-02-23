@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\First Missing Positive\bin\Debug\net8.0\First Missing Positive.exe
+D:\Data Structure and Algorithms\First Missing Positive\bin\Debug\net8.0\First Missing Positive.deps.json
+D:\Data Structure and Algorithms\First Missing Positive\bin\Debug\net8.0\First Missing Positive.runtimeconfig.json
+D:\Data Structure and Algorithms\First Missing Positive\bin\Debug\net8.0\First Missing Positive.dll
+D:\Data Structure and Algorithms\First Missing Positive\bin\Debug\net8.0\First Missing Positive.pdb
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.AssemblyInfo.cs
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.sourcelink.json
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.dll
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\refint\First Missing Positive.dll
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.pdb
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\First Missing Positive.genruntimeconfig.cache
+D:\Data Structure and Algorithms\First Missing Positive\obj\Debug\net8.0\ref\First Missing Positive.dll
