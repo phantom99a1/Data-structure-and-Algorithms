@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Shortest Common Supersequence\bin\Debug\net8.0\Shortest Common Supersequence.exe
+D:\Data Structure and Algorithms\Shortest Common Supersequence\bin\Debug\net8.0\Shortest Common Supersequence.deps.json
+D:\Data Structure and Algorithms\Shortest Common Supersequence\bin\Debug\net8.0\Shortest Common Supersequence.runtimeconfig.json
+D:\Data Structure and Algorithms\Shortest Common Supersequence\bin\Debug\net8.0\Shortest Common Supersequence.dll
+D:\Data Structure and Algorithms\Shortest Common Supersequence\bin\Debug\net8.0\Shortest Common Supersequence.pdb
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.sourcelink.json
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.dll
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\refint\Shortest Common Supersequence.dll
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.pdb
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\Shortest Common Supersequence.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Shortest Common Supersequence\obj\Debug\net8.0\ref\Shortest Common Supersequence.dll
