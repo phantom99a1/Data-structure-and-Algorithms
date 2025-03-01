@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\N-Queens II\bin\Debug\net8.0\N-Queens II.exe
+D:\Data Structure and Algorithms\N-Queens II\bin\Debug\net8.0\N-Queens II.deps.json
+D:\Data Structure and Algorithms\N-Queens II\bin\Debug\net8.0\N-Queens II.runtimeconfig.json
+D:\Data Structure and Algorithms\N-Queens II\bin\Debug\net8.0\N-Queens II.dll
+D:\Data Structure and Algorithms\N-Queens II\bin\Debug\net8.0\N-Queens II.pdb
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.AssemblyInfo.cs
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.sourcelink.json
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.dll
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\refint\N-Queens II.dll
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.pdb
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\N-Queens II.genruntimeconfig.cache
+D:\Data Structure and Algorithms\N-Queens II\obj\Debug\net8.0\ref\N-Queens II.dll
