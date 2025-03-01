@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Apply Operations to an Array\bin\Debug\net8.0\Apply Operations to an Array.exe
+D:\Data Structure and Algorithms\Apply Operations to an Array\bin\Debug\net8.0\Apply Operations to an Array.deps.json
+D:\Data Structure and Algorithms\Apply Operations to an Array\bin\Debug\net8.0\Apply Operations to an Array.runtimeconfig.json
+D:\Data Structure and Algorithms\Apply Operations to an Array\bin\Debug\net8.0\Apply Operations to an Array.dll
+D:\Data Structure and Algorithms\Apply Operations to an Array\bin\Debug\net8.0\Apply Operations to an Array.pdb
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.sourcelink.json
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.dll
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\refint\Apply Operations to an Array.dll
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.pdb
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\Apply Operations to an Array.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Apply Operations to an Array\obj\Debug\net8.0\ref\Apply Operations to an Array.dll
