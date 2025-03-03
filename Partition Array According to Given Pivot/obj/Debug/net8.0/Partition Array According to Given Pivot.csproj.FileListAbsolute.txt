@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\bin\Debug\net8.0\Partition Array According to Given Pivot.exe
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\bin\Debug\net8.0\Partition Array According to Given Pivot.deps.json
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\bin\Debug\net8.0\Partition Array According to Given Pivot.runtimeconfig.json
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\bin\Debug\net8.0\Partition Array According to Given Pivot.dll
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\bin\Debug\net8.0\Partition Array According to Given Pivot.pdb
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.sourcelink.json
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.dll
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\refint\Partition Array According to Given Pivot.dll
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.pdb
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\Partition Array According to Given Pivot.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Partition Array According to Given Pivot\obj\Debug\net8.0\ref\Partition Array According to Given Pivot.dll
