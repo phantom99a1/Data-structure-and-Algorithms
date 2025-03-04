@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\bin\Debug\net8.0\Check if Number is a Sum of Powers of Three.exe
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\bin\Debug\net8.0\Check if Number is a Sum of Powers of Three.deps.json
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\bin\Debug\net8.0\Check if Number is a Sum of Powers of Three.runtimeconfig.json
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\bin\Debug\net8.0\Check if Number is a Sum of Powers of Three.dll
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\bin\Debug\net8.0\Check if Number is a Sum of Powers of Three.pdb
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.sourcelink.json
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.dll
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\refint\Check if Number is a Sum of Powers of Three.dll
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.pdb
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\Check if Number is a Sum of Powers of Three.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Check if Number is a Sum of Powers of Three\obj\Debug\net8.0\ref\Check if Number is a Sum of Powers of Three.dll

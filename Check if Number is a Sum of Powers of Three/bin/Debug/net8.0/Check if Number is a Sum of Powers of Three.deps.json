@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Check if Number is a Sum of Powers of Three/1.0.0": {
+        "runtime": {
+          "Check if Number is a Sum of Powers of Three.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check if Number is a Sum of Powers of Three/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
