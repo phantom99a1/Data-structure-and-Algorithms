@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Closest Prime Numbers in Range/1.0.0": {
+        "runtime": {
+          "Closest Prime Numbers in Range.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Closest Prime Numbers in Range/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

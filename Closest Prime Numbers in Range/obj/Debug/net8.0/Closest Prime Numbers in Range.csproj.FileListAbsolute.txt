@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\bin\Debug\net8.0\Closest Prime Numbers in Range.exe
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\bin\Debug\net8.0\Closest Prime Numbers in Range.deps.json
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\bin\Debug\net8.0\Closest Prime Numbers in Range.runtimeconfig.json
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\bin\Debug\net8.0\Closest Prime Numbers in Range.dll
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\bin\Debug\net8.0\Closest Prime Numbers in Range.pdb
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.sourcelink.json
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.dll
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\refint\Closest Prime Numbers in Range.dll
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.pdb
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\Closest Prime Numbers in Range.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Closest Prime Numbers in Range\obj\Debug\net8.0\ref\Closest Prime Numbers in Range.dll
