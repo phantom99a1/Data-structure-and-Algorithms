@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Combination Sum\bin\Debug\net8.0\Combination Sum.exe
+D:\Data Structure and Algorithms\Combination Sum\bin\Debug\net8.0\Combination Sum.deps.json
+D:\Data Structure and Algorithms\Combination Sum\bin\Debug\net8.0\Combination Sum.runtimeconfig.json
+D:\Data Structure and Algorithms\Combination Sum\bin\Debug\net8.0\Combination Sum.dll
+D:\Data Structure and Algorithms\Combination Sum\bin\Debug\net8.0\Combination Sum.pdb
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.sourcelink.json
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.dll
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\refint\Combination Sum.dll
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.pdb
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\Combination Sum.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Combination Sum\obj\Debug\net8.0\ref\Combination Sum.dll
