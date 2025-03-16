@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Time to Repair Cars", "Minimum Time to Repair Cars.csproj", "{5C2957E9-FCA4-4F53-8504-DA25B042CAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2957E9-FCA4-4F53-8504-DA25B042CAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2957E9-FCA4-4F53-8504-DA25B042CAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2957E9-FCA4-4F53-8504-DA25B042CAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2957E9-FCA4-4F53-8504-DA25B042CAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55B3785-DB36-400C-9E3D-B5269A809D5D}
+	EndGlobalSection
+EndGlobal
