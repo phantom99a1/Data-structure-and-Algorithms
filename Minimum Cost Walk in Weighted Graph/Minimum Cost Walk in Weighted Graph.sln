@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Cost Walk in Weighted Graph", "Minimum Cost Walk in Weighted Graph.csproj", "{9D532777-B064-4E57-B6AD-798157F4CEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D532777-B064-4E57-B6AD-798157F4CEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D532777-B064-4E57-B6AD-798157F4CEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D532777-B064-4E57-B6AD-798157F4CEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D532777-B064-4E57-B6AD-798157F4CEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F198F51-E190-425D-B443-FB80ECA4FDA7}
+	EndGlobalSection
+EndGlobal
