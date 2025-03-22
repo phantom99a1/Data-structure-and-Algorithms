@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sexagenary Cycle Calendar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f40e1d1ca018c8b1cde4fecafbc2c94fa64e42e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a76f386ea5b8907d23fee9b0fc20d2cab653f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sexagenary Cycle Calendar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sexagenary Cycle Calendar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
