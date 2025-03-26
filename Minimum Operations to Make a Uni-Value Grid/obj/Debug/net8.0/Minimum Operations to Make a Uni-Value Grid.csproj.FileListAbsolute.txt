@@ -1,0 +1,15 @@
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\bin\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.exe
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\bin\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.deps.json
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\bin\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.runtimeconfig.json
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\bin\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.dll
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\bin\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.pdb
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.sourcelink.json
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.dll
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\refint\Minimum Operations to Make a Uni-Value Grid.dll
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.pdb
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\Minimum Operations to Make a Uni-Value Grid.genruntimeconfig.cache
+D:\Data Structure and Algorithms\Minimum Operations to Make a Uni-Value Grid\obj\Debug\net8.0\ref\Minimum Operations to Make a Uni-Value Grid.dll

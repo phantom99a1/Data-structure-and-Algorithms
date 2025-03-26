@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Minimum Operations to Make a Uni-Value Grid/1.0.0": {
+        "runtime": {
+          "Minimum Operations to Make a Uni-Value Grid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum Operations to Make a Uni-Value Grid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
