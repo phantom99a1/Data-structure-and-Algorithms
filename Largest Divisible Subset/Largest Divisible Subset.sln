@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Divisible Subset", "Largest Divisible Subset.csproj", "{9117510A-7742-4F66-AD7E-2D2D289A95BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9117510A-7742-4F66-AD7E-2D2D289A95BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9117510A-7742-4F66-AD7E-2D2D289A95BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9117510A-7742-4F66-AD7E-2D2D289A95BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9117510A-7742-4F66-AD7E-2D2D289A95BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B1731C-C91A-4DAC-B4EE-33574EA0AF88}
+	EndGlobalSection
+EndGlobal
