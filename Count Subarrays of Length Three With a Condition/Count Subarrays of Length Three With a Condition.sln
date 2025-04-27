@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Subarrays of Length Three With a Condition", "Count Subarrays of Length Three With a Condition.csproj", "{259D9FEF-2292-46EC-BB52-4079DEB4A3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259D9FEF-2292-46EC-BB52-4079DEB4A3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259D9FEF-2292-46EC-BB52-4079DEB4A3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259D9FEF-2292-46EC-BB52-4079DEB4A3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259D9FEF-2292-46EC-BB52-4079DEB4A3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F3D067-4486-4131-88DD-DE2677BCE727}
+	EndGlobalSection
+EndGlobal
