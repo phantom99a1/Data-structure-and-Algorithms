@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindrome by Concatenating Two Letter Words", "Longest Palindrome by Concatenating Two Letter Words.csproj", "{6E77A8AC-8C55-4EF6-A2D5-AC6B32394AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E77A8AC-8C55-4EF6-A2D5-AC6B32394AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E77A8AC-8C55-4EF6-A2D5-AC6B32394AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E77A8AC-8C55-4EF6-A2D5-AC6B32394AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E77A8AC-8C55-4EF6-A2D5-AC6B32394AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD89B53C-EFE7-417B-8DDE-513CB3C76750}
+	EndGlobalSection
+EndGlobal
