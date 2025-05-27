@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible and Non-divisible Sums Difference", "Divisible and Non-divisible Sums Difference.csproj", "{0313EFB2-8AD2-4D62-B548-46408238F23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0313EFB2-8AD2-4D62-B548-46408238F23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0313EFB2-8AD2-4D62-B548-46408238F23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0313EFB2-8AD2-4D62-B548-46408238F23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0313EFB2-8AD2-4D62-B548-46408238F23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2D0767-FBF9-495D-9075-015963E69BFD}
+	EndGlobalSection
+EndGlobal
