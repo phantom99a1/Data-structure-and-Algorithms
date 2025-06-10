@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountDay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97bbd8a76262696d2638a17a4b0622791d054307")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e945c1cbc289d6dc8f8bb245241c7e51dccf42")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountDay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountDay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
