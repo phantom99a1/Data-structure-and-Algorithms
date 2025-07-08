@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Number of Events That Can Be Attended II", "Maximum Number of Events That Can Be Attended II.csproj", "{6191338A-41B5-49B0-842D-11C3C6CCD74D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6191338A-41B5-49B0-842D-11C3C6CCD74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6191338A-41B5-49B0-842D-11C3C6CCD74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6191338A-41B5-49B0-842D-11C3C6CCD74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6191338A-41B5-49B0-842D-11C3C6CCD74D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82AF4F07-7914-44B9-AF37-889D3D2995F7}
+	EndGlobalSection
+EndGlobal
