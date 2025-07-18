@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Difference in Sums After Removal of Elements", "Minimum Difference in Sums After Removal of Elements.csproj", "{5C6701EF-35F1-4841-B45F-8AB296205008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6701EF-35F1-4841-B45F-8AB296205008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6701EF-35F1-4841-B45F-8AB296205008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6701EF-35F1-4841-B45F-8AB296205008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6701EF-35F1-4841-B45F-8AB296205008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE83E34B-BC9E-4EAC-B04A-7BA8186F0A53}
+	EndGlobalSection
+EndGlobal
