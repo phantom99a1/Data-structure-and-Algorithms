@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rearranging Fruits", "Rearranging Fruits.csproj", "{EBDE1565-812F-4EE5-A1C5-C7B52F68CDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDE1565-812F-4EE5-A1C5-C7B52F68CDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDE1565-812F-4EE5-A1C5-C7B52F68CDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDE1565-812F-4EE5-A1C5-C7B52F68CDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDE1565-812F-4EE5-A1C5-C7B52F68CDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8263261C-2B06-4E9A-AD8D-F620B2C2AA5E}
+	EndGlobalSection
+EndGlobal
