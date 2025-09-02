@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Number of Ways to Place People I", "Find the Number of Ways to Place People I.csproj", "{617E81EF-3E39-4D0A-8587-B0B95D4A09B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617E81EF-3E39-4D0A-8587-B0B95D4A09B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617E81EF-3E39-4D0A-8587-B0B95D4A09B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617E81EF-3E39-4D0A-8587-B0B95D4A09B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617E81EF-3E39-4D0A-8587-B0B95D4A09B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6981BD-7FB4-4343-91D7-FE0A928F72B0}
+	EndGlobalSection
+EndGlobal
