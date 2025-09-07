@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find N Unique Integers Sum up to Zero", "Find N Unique Integers Sum up to Zero.csproj", "{70B32F01-211E-4374-8837-9F320200225E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B32F01-211E-4374-8837-9F320200225E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B32F01-211E-4374-8837-9F320200225E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B32F01-211E-4374-8837-9F320200225E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B32F01-211E-4374-8837-9F320200225E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {981D8E93-E4C5-4BD6-AF73-1281E512AC08}
+	EndGlobalSection
+EndGlobal
