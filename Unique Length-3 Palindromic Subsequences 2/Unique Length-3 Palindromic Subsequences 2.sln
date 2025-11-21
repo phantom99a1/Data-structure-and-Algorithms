@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique Length-3 Palindromic Subsequences 2", "Unique Length-3 Palindromic Subsequences 2.csproj", "{C38209A8-9225-4E93-A12F-05D2EEC7AA6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38209A8-9225-4E93-A12F-05D2EEC7AA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38209A8-9225-4E93-A12F-05D2EEC7AA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38209A8-9225-4E93-A12F-05D2EEC7AA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38209A8-9225-4E93-A12F-05D2EEC7AA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D49C054-F078-47B8-9F4D-DE290835223A}
+	EndGlobalSection
+EndGlobal
