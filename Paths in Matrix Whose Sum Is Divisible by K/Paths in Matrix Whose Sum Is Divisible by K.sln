@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths in Matrix Whose Sum Is Divisible by K", "Paths in Matrix Whose Sum Is Divisible by K.csproj", "{407B1CFD-B910-4DB7-9FEB-C938B43B2458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407B1CFD-B910-4DB7-9FEB-C938B43B2458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407B1CFD-B910-4DB7-9FEB-C938B43B2458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407B1CFD-B910-4DB7-9FEB-C938B43B2458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407B1CFD-B910-4DB7-9FEB-C938B43B2458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954FF597-3388-4639-B457-0E9C3E429EE6}
+	EndGlobalSection
+EndGlobal
