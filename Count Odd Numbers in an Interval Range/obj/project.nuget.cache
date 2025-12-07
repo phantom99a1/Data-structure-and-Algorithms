@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaLsqoV18CQ+7858EJ/tnf+iGxjOW/bQOkTDxiO+JTFa6HFovpDD8M0fxCbqbYCyuyuoolfxluMUQneZa6QuEA==",
+  "success": true,
+  "projectFilePath": "D:\\Data Structure and Algorithms\\Count Odd Numbers in an Interval Range\\Count Odd Numbers in an Interval Range.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Data Structure and Algorithms\\Count Odd Numbers in an Interval Range\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
