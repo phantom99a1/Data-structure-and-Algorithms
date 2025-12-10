@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count the Number of Computer Unlocking Permutations", "Count the Number of Computer Unlocking Permutations.csproj", "{46636463-65D4-43F3-A60A-C7425E1AB46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46636463-65D4-43F3-A60A-C7425E1AB46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46636463-65D4-43F3-A60A-C7425E1AB46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46636463-65D4-43F3-A60A-C7425E1AB46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46636463-65D4-43F3-A60A-C7425E1AB46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D87DC884-0D2B-4D24-9F8E-B4B22A3C4755}
+	EndGlobalSection
+EndGlobal
