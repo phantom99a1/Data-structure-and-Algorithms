@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Subtree with all the Deepest Nodes", "Smallest Subtree with all the Deepest Nodes.csproj", "{607E09B7-F870-482E-AB1B-76E59DD0723F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607E09B7-F870-482E-AB1B-76E59DD0723F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607E09B7-F870-482E-AB1B-76E59DD0723F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607E09B7-F870-482E-AB1B-76E59DD0723F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607E09B7-F870-482E-AB1B-76E59DD0723F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DB9A74-2D87-4EDF-80E4-6484F96B0723}
+	EndGlobalSection
+EndGlobal
