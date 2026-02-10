@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Balanced Subarray I", "Longest Balanced Subarray I.csproj", "{3BAEEE49-8C67-4647-A7EC-55AFC6101EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BAEEE49-8C67-4647-A7EC-55AFC6101EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAEEE49-8C67-4647-A7EC-55AFC6101EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAEEE49-8C67-4647-A7EC-55AFC6101EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAEEE49-8C67-4647-A7EC-55AFC6101EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874A78A6-F1DF-4E00-A1B4-AE12F7879F55}
+	EndGlobalSection
+EndGlobal
