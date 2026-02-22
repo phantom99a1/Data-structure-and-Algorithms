@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Gap", "Binary Gap.csproj", "{8F8D0C24-90A1-4302-A1C7-8B593BA0ABE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8D0C24-90A1-4302-A1C7-8B593BA0ABE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8D0C24-90A1-4302-A1C7-8B593BA0ABE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8D0C24-90A1-4302-A1C7-8B593BA0ABE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8D0C24-90A1-4302-A1C7-8B593BA0ABE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AF8F11-675D-4CE5-9C60-0C236EC710A7}
+	EndGlobalSection
+EndGlobal
