@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Possible Stable Binary Arrays I", "Find All Possible Stable Binary Arrays I.csproj", "{1C2CBC8C-5003-4B31-BEF9-901093894DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2CBC8C-5003-4B31-BEF9-901093894DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2CBC8C-5003-4B31-BEF9-901093894DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2CBC8C-5003-4B31-BEF9-901093894DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2CBC8C-5003-4B31-BEF9-901093894DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CA5271-3EDE-4A13-9046-612CB8570280}
+	EndGlobalSection
+EndGlobal
