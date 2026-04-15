@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Distance to Target String in a Circular Array", "Shortest Distance to Target String in a Circular Array.csproj", "{75933F36-6769-46B9-ACE0-F298DB8E7F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75933F36-6769-46B9-ACE0-F298DB8E7F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75933F36-6769-46B9-ACE0-F298DB8E7F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75933F36-6769-46B9-ACE0-F298DB8E7F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75933F36-6769-46B9-ACE0-F298DB8E7F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E346A04-5205-4A78-9449-CF1574804B08}
+	EndGlobalSection
+EndGlobal
