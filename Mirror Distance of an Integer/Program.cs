@@ -1,0 +1,21 @@
+﻿namespace Mirror_Distance_of_an_Integer
+{
+    public class Solution
+    {
+        public int Reverse(int n)
+        {
+            int res = 0;
+            while (n > 0)
+            {
+                res = res * 10 + n % 10;
+                n /= 10;
+            }
+            return res;
+        }
+
+        public int MirrorDistance(int n)
+        {
+            return Math.Abs(n - Reverse(n));
+        }
+    }
+}
