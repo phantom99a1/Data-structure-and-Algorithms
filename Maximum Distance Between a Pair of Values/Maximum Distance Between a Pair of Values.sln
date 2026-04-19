@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Distance Between a Pair of Values", "Maximum Distance Between a Pair of Values.csproj", "{CFA5623F-763B-459C-B98F-1A336B8785A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA5623F-763B-459C-B98F-1A336B8785A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA5623F-763B-459C-B98F-1A336B8785A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA5623F-763B-459C-B98F-1A336B8785A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA5623F-763B-459C-B98F-1A336B8785A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEAE0E3-2B11-47E4-A384-432240505593}
+	EndGlobalSection
+EndGlobal
