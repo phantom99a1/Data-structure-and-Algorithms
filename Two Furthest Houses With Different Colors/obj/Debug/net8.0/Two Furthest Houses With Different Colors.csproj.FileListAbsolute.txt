@@ -1,0 +1,5 @@
+D:\Data Structure and Algorithms\Two Furthest Houses With Different Colors\obj\Debug\net8.0\Two Furthest Houses With Different Colors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure and Algorithms\Two Furthest Houses With Different Colors\obj\Debug\net8.0\Two Furthest Houses With Different Colors.AssemblyInfoInputs.cache
+D:\Data Structure and Algorithms\Two Furthest Houses With Different Colors\obj\Debug\net8.0\Two Furthest Houses With Different Colors.AssemblyInfo.cs
+D:\Data Structure and Algorithms\Two Furthest Houses With Different Colors\obj\Debug\net8.0\Two Furthest Houses With Different Colors.csproj.CoreCompileInputs.cache
+D:\Data Structure and Algorithms\Two Furthest Houses With Different Colors\obj\Debug\net8.0\Two Furthest Houses With Different Colors.sourcelink.json
