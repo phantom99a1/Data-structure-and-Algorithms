@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furthest Point From Origin", "Furthest Point From Origin.csproj", "{E6B06D26-642A-4603-8CA9-4663D01475F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B06D26-642A-4603-8CA9-4663D01475F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B06D26-642A-4603-8CA9-4663D01475F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B06D26-642A-4603-8CA9-4663D01475F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B06D26-642A-4603-8CA9-4663D01475F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39130018-E732-47CF-ADB2-8CB3D5956809}
+	EndGlobalSection
+EndGlobal
