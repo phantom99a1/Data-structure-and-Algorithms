@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyclically Rotating a Grid", "Cyclically Rotating a Grid.csproj", "{6192B6C7-278B-4748-A7DD-0A9CA0174BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6192B6C7-278B-4748-A7DD-0A9CA0174BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6192B6C7-278B-4748-A7DD-0A9CA0174BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6192B6C7-278B-4748-A7DD-0A9CA0174BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6192B6C7-278B-4748-A7DD-0A9CA0174BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F1AD35-FB98-4334-926E-BECFD1AEA670}
+	EndGlobalSection
+EndGlobal
