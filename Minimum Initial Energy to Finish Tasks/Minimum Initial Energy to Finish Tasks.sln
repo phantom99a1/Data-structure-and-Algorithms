@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Initial Energy to Finish Tasks", "Minimum Initial Energy to Finish Tasks.csproj", "{BA6B3C62-61F3-4CFD-A872-0E8DD73B4F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6B3C62-61F3-4CFD-A872-0E8DD73B4F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6B3C62-61F3-4CFD-A872-0E8DD73B4F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6B3C62-61F3-4CFD-A872-0E8DD73B4F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6B3C62-61F3-4CFD-A872-0E8DD73B4F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AB687B4-F210-400A-A10B-63C9AD8DA77E}
+	EndGlobalSection
+EndGlobal
