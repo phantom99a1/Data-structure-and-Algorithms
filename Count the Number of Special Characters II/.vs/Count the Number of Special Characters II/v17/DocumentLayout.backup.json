@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Structure and Algorithms\\Count the Number of Special Characters II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E76F2C-70B5-466A-8A14-D8B45A8A3943}|Count the Number of Special Characters II.csproj|d:\\data structure and algorithms\\count the number of special characters ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E76F2C-70B5-466A-8A14-D8B45A8A3943}|Count the Number of Special Characters II.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data Structure and Algorithms\\Count the Number of Special Characters II\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Data Structure and Algorithms\\Count the Number of Special Characters II\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:02:16.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
