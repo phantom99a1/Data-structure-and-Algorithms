@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Left and Right Sum Differences", "Left and Right Sum Differences.csproj", "{15124306-7294-4BA6-8EE8-110127C6683C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15124306-7294-4BA6-8EE8-110127C6683C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15124306-7294-4BA6-8EE8-110127C6683C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15124306-7294-4BA6-8EE8-110127C6683C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15124306-7294-4BA6-8EE8-110127C6683C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834BD2C5-F3FF-4C99-8C2E-DB89C2AD8F9C}
+	EndGlobalSection
+EndGlobal
