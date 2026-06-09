@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Total Subarray Value I", "Maximum Total Subarray Value I.csproj", "{A5417611-4DEC-4BD1-BC4B-0B6988692116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5417611-4DEC-4BD1-BC4B-0B6988692116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5417611-4DEC-4BD1-BC4B-0B6988692116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5417611-4DEC-4BD1-BC4B-0B6988692116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5417611-4DEC-4BD1-BC4B-0B6988692116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CEFFF3-DA37-4595-9CF2-BD14A4B6B2F9}
+	EndGlobalSection
+EndGlobal
