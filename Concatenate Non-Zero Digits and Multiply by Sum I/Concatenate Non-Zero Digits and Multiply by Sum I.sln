@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenate Non-Zero Digits and Multiply by Sum I", "Concatenate Non-Zero Digits and Multiply by Sum I.csproj", "{DA3952FC-2717-470E-9B23-8C0423F2E7D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3952FC-2717-470E-9B23-8C0423F2E7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3952FC-2717-470E-9B23-8C0423F2E7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3952FC-2717-470E-9B23-8C0423F2E7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3952FC-2717-470E-9B23-8C0423F2E7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CD4DB7-DFA9-42BD-A712-F1000B524DC4}
+	EndGlobalSection
+EndGlobal
