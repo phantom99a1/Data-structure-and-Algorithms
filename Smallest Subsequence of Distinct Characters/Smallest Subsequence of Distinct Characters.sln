@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Subsequence of Distinct Characters", "Smallest Subsequence of Distinct Characters.csproj", "{CE77B023-15FE-4514-8009-890EE1D767F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE77B023-15FE-4514-8009-890EE1D767F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE77B023-15FE-4514-8009-890EE1D767F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE77B023-15FE-4514-8009-890EE1D767F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE77B023-15FE-4514-8009-890EE1D767F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E55C938-3AEB-49E3-B035-17A9D14DA6B6}
+	EndGlobalSection
+EndGlobal
