@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length of Longest Subarray With at Most K Frequency", "Length of Longest Subarray With at Most K Frequency.csproj", "{0A64B489-E60C-4742-948D-BB5B8F1C8EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A64B489-E60C-4742-948D-BB5B8F1C8EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A64B489-E60C-4742-948D-BB5B8F1C8EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A64B489-E60C-4742-948D-BB5B8F1C8EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A64B489-E60C-4742-948D-BB5B8F1C8EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A89C5C-6342-4B6D-9DE6-0FEDAB9B2326}
+	EndGlobalSection
+EndGlobal
