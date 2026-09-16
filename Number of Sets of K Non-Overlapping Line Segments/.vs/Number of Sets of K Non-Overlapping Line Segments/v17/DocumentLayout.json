@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Structure and Algorithms\\Number of Sets of K Non-Overlapping Line Segments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F79CAD5-A05C-4AD6-A897-F3CE1C258E62}|Number of Sets of K Non-Overlapping Line Segments.csproj|d:\\data structure and algorithms\\number of sets of k non-overlapping line segments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F79CAD5-A05C-4AD6-A897-F3CE1C258E62}|Number of Sets of K Non-Overlapping Line Segments.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data Structure and Algorithms\\Number of Sets of K Non-Overlapping Line Segments\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Data Structure and Algorithms\\Number of Sets of K Non-Overlapping Line Segments\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T16:14:43.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
