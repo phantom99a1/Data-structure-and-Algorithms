@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarrays Distinct Element Sum of Squares II", "Subarrays Distinct Element Sum of Squares II.csproj", "{12852F8B-98F8-4DB6-9E2D-2B38D208B7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12852F8B-98F8-4DB6-9E2D-2B38D208B7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12852F8B-98F8-4DB6-9E2D-2B38D208B7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12852F8B-98F8-4DB6-9E2D-2B38D208B7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12852F8B-98F8-4DB6-9E2D-2B38D208B7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C363DE5A-E6E0-499C-AC6E-DC3882BF743F}
+	EndGlobalSection
+EndGlobal
