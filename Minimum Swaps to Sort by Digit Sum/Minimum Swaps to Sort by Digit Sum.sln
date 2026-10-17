@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Swaps to Sort by Digit Sum", "Minimum Swaps to Sort by Digit Sum.csproj", "{299E6298-B847-4563-9BD3-54134945CAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299E6298-B847-4563-9BD3-54134945CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299E6298-B847-4563-9BD3-54134945CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299E6298-B847-4563-9BD3-54134945CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299E6298-B847-4563-9BD3-54134945CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA1D0E7-4921-4AE2-BF23-ACF7EFA70E29}
+	EndGlobalSection
+EndGlobal
