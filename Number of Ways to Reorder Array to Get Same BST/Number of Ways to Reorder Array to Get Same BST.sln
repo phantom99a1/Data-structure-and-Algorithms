@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Ways to Reorder Array to Get Same BST", "Number of Ways to Reorder Array to Get Same BST.csproj", "{0558C77E-DB1E-4939-81EE-859E2381997A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0558C77E-DB1E-4939-81EE-859E2381997A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0558C77E-DB1E-4939-81EE-859E2381997A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0558C77E-DB1E-4939-81EE-859E2381997A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0558C77E-DB1E-4939-81EE-859E2381997A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6E8CC6-707A-493C-B5CC-0D994F6A2121}
+	EndGlobalSection
+EndGlobal
