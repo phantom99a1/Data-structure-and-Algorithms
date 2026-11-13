@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Strictly Increasing or Strictly Decreasing Subarray version 2", "Longest Strictly Increasing or Strictly Decreasing Subarray version 2.csproj", "{11B62E3C-D332-4EC8-93E4-2BDAC473E236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B62E3C-D332-4EC8-93E4-2BDAC473E236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B62E3C-D332-4EC8-93E4-2BDAC473E236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B62E3C-D332-4EC8-93E4-2BDAC473E236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B62E3C-D332-4EC8-93E4-2BDAC473E236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F4C98C-61BF-4C3F-BE09-BB6DC9850251}
+	EndGlobalSection
+EndGlobal
